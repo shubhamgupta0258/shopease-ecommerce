@@ -9,6 +9,8 @@ ShopEase is a full-stack e-commerce web application with product browsing, cart 
 
 Frontend is deployed on **Vercel**, backend + Postgres on **Railway**.
 
+**Demo admin login** (to try the admin dashboard): `admin@shopease.com` / `AdminPass123!`
+
 ## Features
 
 - **Product catalog** — browse, search, filter by category, sort, and paginate products
