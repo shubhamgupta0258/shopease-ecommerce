@@ -2,6 +2,13 @@
 
 ShopEase is a full-stack e-commerce web application with product browsing, cart management, secure checkout with real payment gateway integration, order history, and a complete admin dashboard for managing products, categories, and orders.
 
+## Live Demo
+
+- **Frontend:** [shopease-frontend-rho.vercel.app](https://shopease-frontend-rho.vercel.app)
+- **Backend API:** [shopease-backend-production-c526.up.railway.app/api](https://shopease-backend-production-c526.up.railway.app/api)
+
+Frontend is deployed on **Vercel**, backend + Postgres on **Railway**.
+
 ## Features
 
 - **Product catalog** — browse, search, filter by category, sort, and paginate products
@@ -30,6 +37,10 @@ ShopEase is a full-stack e-commerce web application with product browsing, cart 
 - **Axios** for API communication
 - React Context API for cross-cutting state (cart count, toast notifications)
 - **React Testing Library + Jest** for component/unit testing
+
+### Deployment
+- Frontend hosted on **Vercel**
+- Backend + **Postgres** hosted on **Railway**
 
 ## Project Structure
 
