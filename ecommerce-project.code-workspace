@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "frontend (React)",
+			"path": "ecommerce-frontend"
+		},
+		{
+			"name": "backend (Spring Boot)",
+			"path": "ecommerce-backend"
+		}
+	],
+	"settings": {}
+}
